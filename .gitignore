@@ -1,3 +1,15 @@
+/node_modules
+/old
+/other
+/public_html/css
+/public_html/js
+/public_html/img
+/public_html/design
+/public_html/fonts
+/public_html/lib
+/js/node_modules
+/.idea
+
 # Logs
 logs
 *.log
@@ -59,3 +71,4 @@ typings/
 
 # next.js build output
 .next
+
