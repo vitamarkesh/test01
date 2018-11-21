@@ -2,7 +2,7 @@
 
 
 
-console.log('123'+'fff');
+console.log('123'+'fff'+'sss');
 
 
 
